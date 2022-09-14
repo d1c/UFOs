@@ -40,10 +40,12 @@ Below are a couple of opportunities to improve the webpage to make it more prese
 
 Problem: 
 * In the current version of the page, visitors must enter all text search criteria in lower case. If the user uses any capitalization the search returns no results.
+
 Solution: 
 * Add code to manipulate the case of the search criteria so filtered results will be returned even when vistors enter all caps or mixed caps criteria.
 
 Problem:
 * Several fields in the provided dataset do not use any capitalization. To be taken seriously the webpage needs to look professional and well edited.
+
 Solution:
 * Process the dataset to add uppercase letters where appropriate. For example, State & Country codes should be all caps while City names should have proper capitalization.
