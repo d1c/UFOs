@@ -1,4 +1,4 @@
-![The Truth is Out There](/Resources/banner.png)
+![The Truth is Out There](../Resources/banner.png)
 
 # UFOs: The Truth is Out There!
 
@@ -16,7 +16,7 @@ The UFO web page has been designed to be dynamic to allow visitors to filter the
 
 When the web page loads, the image below is what will be seen at the top of the page. One item of note is the "UFO Sightings" link at the top left of the page. Clicking this link, will reload all of the page elements including the table section.
 
-![UFO Web Page](/Resources/UFO_Web_Page_top.png)
+![UFO Web Page](../Resources/UFO_Web_Page_top.png)
 
 ### Web Page Table Section 
 
@@ -27,7 +27,7 @@ Shown below is the data table and the filters section of the web page. A couple 
 2. Search Criteria: Enter one or more search criteria then hit the enter key to filter the table. 
 3. To reload the table, either delete all search criteria OR click the "UFO Sightings" link in the top left corner to reload the page.
 
-![UFO Web Page](/Resources/UFO_Web_Page_table.png)
+![UFO Web Page](../Resources/UFO_Web_Page_table.png)
 
 
 ## Summary
