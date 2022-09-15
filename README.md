@@ -4,9 +4,7 @@
 
 ## Project Overview
 
-* Purpose is well defined.
-
-The purpose of this project is to build a webpage to display UFO data in a table that can be filtered by visitors. The project will use HTML, CSS, Javascript, and D3. The dataset provided for the table has been provided in a Javascript array. Using JavaScript and D3 the array will be processed into an HTML table for viewing & filtering.
+The purpose of this project is to build a webpage to display UFO data in a table that can be filtered by visitors. The project uses HTML, CSS, Javascript, and D3. The dataset provided for the table is in a Javascript array. Using JavaScript and D3 the array is processed into an HTML table for viewing & filtering.
 
 ## Results
 
@@ -38,14 +36,10 @@ One drawback of this web page is that while the table is dynamic the data availa
 
 Below are a couple of opportunities to improve the webpage to make it more presentable and improve usability.
 
-Problem: 
-* In the current version of the page, visitors must enter all text search criteria in lower case. If the user uses any capitalization the search returns no results.
+#### First Recommendation
 
-Solution: 
-* Add code to manipulate the case of the search criteria so filtered results will be returned even when vistors enter all caps or mixed caps criteria.
+The first recommendation will be to improve the data entry for users of the filter fields. In the current version of the page, visitors must enter all text search criteria in lower case. If the user uses any capitalization the search returns no results. The proposed solution will be to add code to manipulate the case of the search criteria so filtered results will be returned even when vistors enter all caps or mixed caps.
 
-Problem:
-* Several fields in the provided dataset do not use any capitalization. To be taken seriously the webpage needs to look professional and well edited.
+#### Second Recommendation
 
-Solution:
-* Process the dataset to add uppercase letters where appropriate. For example, State & Country codes should be all caps while City names should have proper capitalization.
+The second recommendation is to process the dataset to add capitalization where appropriate. The current dataset uses all lower caps for several fields where capital letters are normally used. For example, State & Country codes should be all caps while City names should have proper capitalization. This change will make the webpage look more professional and well edited.
